@@ -215,7 +215,7 @@ plt.ylabel('CO2 Emissions')
 plt.rcParams["figure.dpi"] = 1000
 plt.legend(loc= "upper right")
 plt.figure(figsize=(8, 6))
-plt.show()
+plt.show()j
 
 
 
